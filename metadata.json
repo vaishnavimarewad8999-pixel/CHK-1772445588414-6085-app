@@ -1,0 +1,5 @@
+{
+  "name": "SMARTLOCK",
+  "description": "AI-Powered Digital Safety & Citizen Protection App. Protects against scams, phishing, and misinformation.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
